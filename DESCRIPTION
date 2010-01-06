@@ -1,8 +1,8 @@
 Package: biglars
 Type: Package
 Title: Scalable Least-Angle Regression and Lasso
-Version: 1.0
-Date: Mon Jan 04 14:00:00 PDT 2010
+Version: 1.0.1
+Date: Wed Jan 06 14:45:00 PDT 2010
 Author: Mark Seligman, Chris Fraley, Tim Hesterberg
 Maintainer: Mark Seligman <Mark.Seligman@insilicos.com>
 Description: Least-angle regression, lasso and stepwise regression for
@@ -14,4 +14,4 @@ Depends: R (>= 2.10), ff
 License: GPL (>= 2)
 Packaged: 2010-01-05 09:52:40 UTC; hornik
 Repository: CRAN
-Date/Publication: 2010-01-05 10:05:48
+Date/Publication: 2010-01-07 15:41:41

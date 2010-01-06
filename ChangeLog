@@ -1,0 +1,2 @@
+2010-01-06 Mark Seligman <Mark.Seligman@insilicos.com>
+* src/Makevars:  Introduced for link portability.
