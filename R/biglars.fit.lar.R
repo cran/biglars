@@ -102,8 +102,8 @@ function(R, Qty, removeColumns = TRUE, eps = sqrt(.Machine$double.eps), ...)
       del <- (s * crossprod(R, R %*% d))/colNorms
       svec <- abs(cvec)
       if(FALSE) {
-        dvec <-  - crossprod(R, R %*% d)/colNorms
-        dvec <-  - crossprod(R, R %*% d)
+        gvec <-  - crossprod(R, R %*% d)
+        dvec <- gvec/colNorms
         A <- 0
         B <- 1
         gamma <- 1/2

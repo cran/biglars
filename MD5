@@ -1,0 +1,16 @@
+656ef7f66526be96caf9d452415c1d5d *ChangeLog
+629d8bcec4fb86b25ad0d48453ccfd59 *DESCRIPTION
+04de1cb7efb89c4c132d3cbe64baa785 *NAMESPACE
+81ff410929461b5fb188150523cd453e *R/biglars.fit.R
+3910597e9b133cb35d08e49bdca6db5e *R/biglars.fit.lar.R
+ee3d2eed6aa81f37cf82ae1140c891c6 *R/biglars.fit.lasso.R
+13f9ca9dd2e0253f2c46c974d5f88677 *R/biglars.fit.stepwise.R
+a00f2929607a82b3d95d415b7fed9c37 *R/qrBlock.R
+ca4630d5f73a9cf8d25f91a37ad39a33 *R/qrBlockApply.R
+37a3faa66f3c48e8baedd662e1a01a4c *data/diabetes.RData
+d4a7c16c8a63c27d5486297eda177e2f *man/biglars.fit.Rd
+420107608f584d0b1ab8ec18a9fa6812 *man/diabetes.Rd
+3e6ded9c666300ceea5db547c441a3c9 *man/qrBlockApply.Rd
+2fa4c7011c2bc0f7449ae151d5cc44ae *src/Makevars
+9264ec3a227ff208aae5f6232c8ec913 *src/rblock.f
+56769167abb816c7c82f551afce61a0e *src/rstrup.f

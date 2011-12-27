@@ -1,2 +1,6 @@
+2011-12-27  Mark Seligman  <Mark.Seligman@insilicos.com>
+
+	* R/biglars.fit.lar.R:  Fixed naming errors in trace code.
+
 2010-01-06 Mark Seligman <Mark.Seligman@insilicos.com>
 * src/Makevars:  Introduced for link portability.
